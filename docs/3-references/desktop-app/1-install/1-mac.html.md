@@ -20,3 +20,19 @@ tabs:
   ![](/images/drag-to-apps-folder.png)
 
 1. PhoneGap Desktop is now installed and ready to run.
+
+## Guide Sections
+
+The sections covered in this reference include:
+
+- [Installation Steps](/references/desktop-app/install/mac)
+- [Creating a Project](/references/desktop-app/create-project)
+- [Opening an Existing Project](/references/desktop-app/open-project)
+- [Previewing your App](/references/desktop-app/pair-with-dev-app/)
+- [Removing a Project](/references/desktop-app/remove-project)
+- [Active vs Inactive Projects](/references/desktop-app/active-vs-inactive)
+- [Viewing the Server Log](/references/desktop-app/view-server-log)
+- [Updating Software Version](/references/desktop-app/7-update-version/mac)
+- [Editing Settings](/references/desktop-app/edit-settings)
+- [Troubleshooting/FAQ](/references/desktop-app/troubleshoot-faq)
+- [Developer Console](/references/desktop-app/developer-console)
